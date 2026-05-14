@@ -13,7 +13,7 @@ Topological Data Analysis (TDA) for Financial Time Series
 
 Topology and Data\
 Gunnar Carlsson\
-https://www.academia.edu/58608284/Topology{\_}and{\_}data
+https://www.academia.edu/58608284/Topology_and_data
 
 A Roadmap for the Computation of Persistent Homology\
 Nina Otter, Mason A. Porter, Ulrike Tillmann, Peter Grindrod, Heather A. Harrington\
