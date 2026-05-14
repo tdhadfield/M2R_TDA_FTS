@@ -8,6 +8,12 @@ Topological Data Analysis (TDA) for Financial Time Series
 Introduction to simplicial homology. 
 Simplices and simplicial complexes. Boundary maps. Chain groups. Cycles and boundaries. Homology groups. Examples. Interpretation of $H_0 (X)$, $H_1(X)$ and $H_2 (X)$. Betti numbers.
 
+Filtered simplicial complexes. Persistent homology. Barcodes.
+
+
+<img width="1352" height="413" alt="image" src="https://github.com/user-attachments/assets/bd1ba9d8-687f-47d9-91e6-c359efbbf071" />
+
+
 
 
 
