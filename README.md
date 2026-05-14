@@ -11,6 +11,10 @@ Topological Data Analysis (TDA) for Financial Time Series
 
 # References
 
+An Introduction to Simplicial Homology for Beginners\
+Panav Pallothu\
+https://math.uchicago.edu/~may/REU2025/REUPapers/Pallothu.pdf
+
 Topology and Data\
 Gunnar Carlsson\
 https://www.academia.edu/58608284/Topology_and_data
