@@ -1,7 +1,7 @@
 # M2R_TDA_FTS
 Topological Data Analysis (TDA) for Financial Time Series
 
-Tom Hadfield  t.hadfield@imperial.ac.uk
+Supervisor: Tom Hadfield,  t.hadfield@imperial.ac.uk, https://profiles.imperial.ac.uk/t.hadfield
 
 # Syllabus
 
