@@ -5,6 +5,9 @@ Topological Data Analysis (TDA) for Financial Time Series
 
 ## Introduction to Topological Data Analysis (TDA)
 
+Introduction to simplicial homology. 
+Simplices and simplicial complexes. Boundary maps. Chain groups. Cycles and boundaries. Homology groups. Examples.
+
 
 
 ## Introduction to Financial Time Series (FTS)
