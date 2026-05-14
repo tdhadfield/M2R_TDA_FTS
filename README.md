@@ -19,6 +19,10 @@ A Roadmap for the Computation of Persistent Homology\
 Nina Otter, Mason A. Porter, Ulrike Tillmann, Peter Grindrod, Heather A. Harrington\
 https://arxiv.org/abs/1506.08903
 
+Computational topology : an introduction\
+Herbert Edelsbrunner, John L. Harer\
+Available in the Abdus Salam library
+
 Topological Data Analysis of Financial Time Series: Landscapes of Crashes\
 Marian Gidea, Yuri Katz\
 https://arxiv.org/abs/1703.04385
