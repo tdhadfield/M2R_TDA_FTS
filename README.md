@@ -21,6 +21,11 @@ Filtered simplicial complexes. Cech complex and Vietoris–Rips complex. Persist
 
 ## Introduction to Financial Time Series (FTS)
 
+What is a time series? Financial time series - price, volume, returns. Data quality issues, outliers, normalisation.
+
+TDA meets time series. Delay embeddings. Takens Embedding Theorem. 
+
+
 # References
 
 An Introduction to Simplicial Homology for Beginners\
@@ -55,7 +60,7 @@ Enhancing Financial Time Series Forecasting through Topological Data Analysis\
 Luiz Carlos de Jesus Jr., Francisco Fernández-Navarro, Mariano Carbonero-Ruz\
 https://link.springer.com/article/10.1007/s00521-024-10787-x
 
-<img width="1251" height="1013" alt="image" src="https://github.com/user-attachments/assets/e813d9ba-0675-4563-9f6f-4637db9d12e5" />
+
 
 
 
