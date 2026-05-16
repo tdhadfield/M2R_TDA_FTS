@@ -49,15 +49,15 @@ Computational topology : an introduction\
 Herbert Edelsbrunner, John L. Harer\
 Available in the Abdus Salam library
 
-Professor Gunnar Carlsson Introduces Topological Data Analysis
+Professor Gunnar Carlsson Introduces Topological Data Analysis\
 https://www.youtube.com/watch?v=XfWibrh6stw
 
-Topological Data Analysis (TDA) : An introduction
-Shaw Talebi
+Topological Data Analysis (TDA) : An introduction\
+Shaw Talebi\
 https://www.youtube.com/watch?v=fpL5fMmJHqk&list=PLz-ep5RbHosVi8Qoyqvz1MEiYrz35Zb7F&index=1
 
-Persistent Homology : Introduction & Python Example Code
-Shaw Talebi
+Persistent Homology : Introduction & Python Example Code\
+Shaw Talebi\
 https://www.youtube.com/watch?v=5ezFcy9CIWE
 
 Introduction to Persistent Homology\
