@@ -25,7 +25,7 @@ Filtered simplicial complexes. Cech complex and Vietoris–Rips complex. Persist
 
 ## Introduction to Financial Time Series (FTS)
 
-What is a time series? Financial time series - price, volume, returns. Data quality issues, outliers, normalisation. Z-scores. Autocorrelation. Non-normality of returns. 
+What is a time series? Financial time series - price, volume, returns. Data quality issues, outliers, normalisation. Z-scores. Autocorrelation. Non-stationarity. Non-normality of returns. 
 
 
 TDA meets time series. Delay embeddings. Takens Embedding Theorem. 
