@@ -12,7 +12,7 @@ https://profiles.imperial.ac.uk/t.hadfield
 Introduction to simplicial homology. 
 Simplices and simplicial complexes. Boundary maps. Chain groups. Cycles and boundaries. Homology groups. Examples. Interpretation of $H_0 (X)$, $H_1(X)$ and $H_2 (X)$. Betti numbers.
 
-Filtered simplicial complexes. Cech complex and Vietoris–Rips complex. Persistent homology. Barcodes. Computational tools. Typical workflow:
+Filtered simplicial complexes. Cech complex and Vietoris–Rips complex. Persistent homology. Barcodes. Computational tools. Persistence diagrams. Wasserstein distance. Typical workflow:
 
 <img width="1352" height="413" alt="image" src="https://github.com/user-attachments/assets/bd1ba9d8-687f-47d9-91e6-c359efbbf071" />
 
@@ -48,6 +48,17 @@ https://arxiv.org/abs/1506.08903
 Computational topology : an introduction\
 Herbert Edelsbrunner, John L. Harer\
 Available in the Abdus Salam library
+
+Professor Gunnar Carlsson Introduces Topological Data Analysis
+https://www.youtube.com/watch?v=XfWibrh6stw
+
+Topological Data Analysis (TDA) : An introduction
+Shaw Talebi
+https://www.youtube.com/watch?v=fpL5fMmJHqk&list=PLz-ep5RbHosVi8Qoyqvz1MEiYrz35Zb7F&index=1
+
+Persistent Homology : Introduction & Python Example Code
+Shaw Talebi
+https://www.youtube.com/watch?v=5ezFcy9CIWE
 
 Introduction to Persistent Homology\
 Matthew Wright\
