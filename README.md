@@ -60,6 +60,10 @@ Persistent Homology : Introduction & Python Example Code\
 Shaw Talebi\
 https://www.youtube.com/watch?v=5ezFcy9CIWE
 
+Applied topology 8: An introduction to persistent homology\
+Applied Algebraic Topology Network\
+https://www.youtube.com/watch?v=OkDs9Wj5G1U
+
 Introduction to Persistent Homology\
 Matthew Wright\
 https://www.youtube.com/watch?v=h0bnG1Wavag
