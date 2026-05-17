@@ -28,7 +28,7 @@ Filtered simplicial complexes. Cech complex and Vietoris–Rips complex. Persist
 What is a time series? Financial time series - price, volume, returns. Data quality issues, outliers, normalisation. Z-scores. Autocorrelation. Non-stationarity. Non-normality of returns. 
 
 
-## TDA meets time series
+## TDA meets Time Series
 
 Delay embeddings. Takens Embedding Theorem. 
 
