@@ -12,7 +12,7 @@ https://profiles.imperial.ac.uk/t.hadfield
 Introduction to simplicial homology. 
 Simplices and simplicial complexes. Boundary maps. Chain groups. Cycles and boundaries. Homology groups. Examples. Interpretation of $H_0 (X)$, $H_1(X)$ and $H_2 (X)$. Betti numbers.
 
-Filtered simplicial complexes. Cech complex and Vietoris–Rips complex. Persistent homology. Barcodes. Computational tools. Persistence diagrams. Wasserstein distance. Typical workflow:
+Filtered simplicial complexes. Cech complex and Vietoris–Rips complex. Persistent homology. Barcodes. Computational tools. Persistence diagrams. Wasserstein distance. Typical workflow ( https://en.wikipedia.org/wiki/Topological_data_analysis ):
 
 <img width="1352" height="413" alt="image" src="https://github.com/user-attachments/assets/bd1ba9d8-687f-47d9-91e6-c359efbbf071" />
 
