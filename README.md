@@ -74,6 +74,10 @@ Introduction to Persistent Homology\
 Matthew Wright\
 https://www.youtube.com/watch?v=h0bnG1Wavag
 
+Persistent homology algorithm: An Example\
+Henry Adams\
+https://www.youtube.com/watch?v=8dF_ZtUTPRk
+
 Topological Data Analysis of Financial Time Series: Landscapes of Crashes\
 Marian Gidea, Yuri Katz\
 https://arxiv.org/abs/1703.04385
