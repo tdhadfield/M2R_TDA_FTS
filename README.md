@@ -90,6 +90,21 @@ Enhancing Financial Time Series Forecasting through Topological Data Analysis\
 Luiz Carlos de Jesus Jr., Francisco Fernández-Navarro, Mariano Carbonero-Ruz\
 https://link.springer.com/article/10.1007/s00521-024-10787-x
 
+Silicon Valley Bank crash, March 2023\
+https://en.wikipedia.org/wiki/Collapse_of_Silicon_Valley_Bank
+
+Quant Bust 2020, Zura Kakushadze\
+https://arxiv.org/abs/2006.05632
+
+Flash crash, May 6th 2010\
+https://www.markethistories.com/en/the-flash-crash-when-algorithms-broke-the-market-in-36-minutes-2010
+
+Volkswagen short squeeze, October 2008\
+https://www.tradingsim.com/blog/volkswagen-short-squeeze-explained
+
+Quant quake, August 2007\
+https://web.mit.edu/Alo/www/Papers/august07.pdf
+
 
 
 
